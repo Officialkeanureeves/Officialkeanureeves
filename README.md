@@ -4,9 +4,10 @@
 - 💞️ I’m looking to collaborate with others, willing to help too ...
 - 📫 How to reach me officialkeanureeves2019@gmail.com ...
 
-NOTE: “I always find it surreal that complete strangers come up to me and ask me personal questions,” I doesn’t mind talking about work. 
-The most irritating question is..
-“when the talk turns to ‘Who are you?’ and ‘What do you do off-screen?'”
+NOTE: "I always find it surreal that complete strangers come up to me and ask me personal questions." I don’t mind talking about work. but not irritating questions like
+‘Who are you?
+What do you do off-screen?
+Where are you currently?”
 <!---
 Officialkeanureeves/Officialkeanureeves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
